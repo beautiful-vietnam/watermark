@@ -7127,6 +7127,10 @@ watchpack@^1.5.0:
     graceful-fs "^4.1.2"
     neo-async "^2.5.0"
 
+watermarkjs@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/watermarkjs/-/watermarkjs-2.0.0.tgz#69dc3eb1beaa4f70c1189b202e3de6585ecd5b22"
+
 webpack-bundle-analyzer@^3.3.2:
   version "3.3.2"
   resolved "https://registry.yarnpkg.com/webpack-bundle-analyzer/-/webpack-bundle-analyzer-3.3.2.tgz#3da733a900f515914e729fcebcd4c40dde71fc6f"
